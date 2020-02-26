@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
+  "engines": {
+    "node": "12.12.0"
+  },
   "author": "Alex Cumbo",
   "license": "UNLICENSED",
   "main": "./Petful-server/src/server.js",
